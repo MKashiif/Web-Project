@@ -1,0 +1,69 @@
+* {
+  font-family: Ubuntu;
+}
+
+.mynav {
+  background-image: linear-gradient(to right, rgb(83, 141, 44), rgb(156, 148, 36));
+}
+
+.navbar {
+  background-color: transparent !important;
+}
+
+.navbar .navbar-nav {
+  margin: auto;
+}
+
+.navbar .nav-item a {
+  color: black;
+  font-family: Ubuntu;
+  font-weight: bold;
+  margin-left: 80px;
+}
+
+.navbar .nav-item a:hover {
+  background-color: rgb(62, 117, 33);
+  border-radius: 3px;
+}
+
+.navbar .nav-item .active {
+  background-color: rgb(62, 117, 33);
+  border-radius: 3px;
+}
+
+.navbar .btn {
+  background-color: green !important;
+  color: white;
+  border-style: none;
+}
+
+.navbar .btn:hover {
+  background-color: rgb(4, 100, 4) !important;
+  color: white;
+  border-style: none;
+}
+
+.navbar .dropdown-menu {
+  background-image: linear-gradient(to right, rgb(83, 141, 44), rgb(156, 148, 36));
+  width: 200px;
+  margin-left: 30px;
+}
+
+.item-active {
+  background-color: rgb(62, 117, 33);
+  border-radius: 3px;
+  width: 125px;
+}
+
+.navbar .dropdown-menu a {
+  margin-left: 10px;
+}
+
+.navbar .dropdown-menu a:hover {
+  width: 125px;
+}
+
+.navbar .navbar-brand {
+  margin-left: 45px;
+  margin-right: -90px;
+}
