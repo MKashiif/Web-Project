@@ -19,7 +19,7 @@
   <div class="mynav">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="/std/knorr-clone-main/products/index1.php" style="cursor: pointer;"><img src="/std/Knorr-clone-main/logo.png" alt="Knorr Logo"
+        <a class="navbar-brand" href="/Knor/knorr-clone-main/products/index1.php" style="cursor: pointer;"><img src="/Knor/Knorr-clone-main/logo.png" alt="Knorr Logo"
             width="85px" style="cursor: pointer;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,7 +28,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/std/Knorr-clone-main/index1.php">Home</a>
+              <a class="nav-link active" aria-current="page" href="/Knor/Knorr-clone-main/index1.php">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -36,24 +36,24 @@
                 Products
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/noodles.php">Noodles</a></li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/sauces.php">Sauces</a></li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/soups.php">Soups</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/noodles.php">Noodles</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/sauces.php">Sauces</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/soups.php">Soups</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/products.php">All Products</a>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/products.php">All Products</a>
                 </li>
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/std/knorr-clone-main/about.php">About Us</a>
+              <a class="nav-link" aria-current="page" href="/Knor/knorr-clone-main/about.php">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/std/knorr-clone-main/contactus.php">Contact Us</a>
+              <a class="nav-link" aria-current="page" href="/Knor/knorr-clone-main/contactus.php">Contact Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" class="btn" aria-current="page" href="/std/login.php">Login</a>
+              <a class="nav-link" class="btn" aria-current="page" href="/Knor/login.php">Login</a>
             </li>
           </ul>
 
@@ -70,14 +70,14 @@
   <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active" data-bs-interval="3000">
-        <a href="/std/knorr-clone-main/products/products.php"><img src="/std/Knorr-clone-main/images/allbanner.jpg" height="550px" class="d-block w-100" alt="..."></a>
+        <a href="/Knor/knorr-clone-main/products/products.php"><img src="/Knor/Knorr-clone-main/images/allbanner.jpg" height="550px" class="d-block w-100" alt="..."></a>
 
       </div>
       <div class="carousel-item" data-bs-interval="3000">
-        <a href="/std/knorr-clone-main/products/products.php"><img src="/std/Knorr-clone-main/images/allnoodles.png" height="550px" class="d-block w-100" alt="..."></a>
+        <a href="/Knor/knorr-clone-main/products/products.php"><img src="/Knor/Knorr-clone-main/images/allnoodles.png" height="550px" class="d-block w-100" alt="..."></a>
       </div>
       <div class="carousel-item" data-bs-interval="3000">
-        <a href="/std/knorr-clone-main/products/products.php"><img src="/std/Knorr-clone-main/images/blazin.jpg" height="550px" class="d-block w-100" alt="..."></a>
+        <a href="/Knor/knorr-clone-main/products/products.php"><img src="/Knor/Knorr-clone-main/images/blazin.jpg" height="550px" class="d-block w-100" alt="..."></a>
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
@@ -104,7 +104,7 @@
               <h3 class="text-black fs-5">Knorr Ketchups</h3>
               <p class="fs-6 text-black"><b>Flavours:</b> Tomato, Chilli, Green Chilli, Barbeque</p>
               <p><b>Price:</b> 400</p>
-              <a href="/std/Knorr-clone-main/products/sauces.php">Ketchups</a>
+              <a href="/Knor/Knorr-clone-main/products/sauces.php">Ketchups</a>
             </div>
           </div>
         </div>
@@ -122,7 +122,7 @@
             <h3 class="text-black fs-5">Knorr Noodles</h3>
             <p class="fs-6 text-black"><b>Flavours:</b> Chattpata, Chicken, Cheese, Blazin Hot</p>
             <p><b>Price:</b> 80</p>
-            <a href="/std/Knorr-clone-main/products/noodles.php">Noodles</a>
+            <a href="/Knor/Knorr-clone-main/products/noodles.php">Noodles</a>
           </div>
         </div>
       </div>
@@ -133,7 +133,7 @@
       <div class="cardBox">
         <div class="card">
           <div class="front">
-            <img src="/std/Knorr-clone-main/images/blazin.jpg" alt="">
+            <img src="/Knor/Knorr-clone-main/images/blazin.jpg" alt="">
           </div>
           <div class="back">
             <h3 class="text-black fs-5">Knorr Blazin Hot</h3>
@@ -175,13 +175,13 @@ if($count==4)
         <div class="cardBox">
           <div class="card">
             <div class="front">
-              <img src="/std/uploads/<?php echo $fetch['pimage'] ?>">      
+              <img src="/Knor/uploads/<?php echo $fetch['pimage'] ?>">      
             </div>
             <div class="back">
               <h3 class="text-black fs-5"> <?php echo $fetch['pname'] ?></h3>
              
               <p><b>Price:</b>  <?php echo $fetch['pprice'] ?></p>
-              <a href="/std/Knorr-clone-main/products/products.php">Buy Now</a>
+              <a href="/Knor/Knorr-clone-main/products/products.php">Buy Now</a>
             </div>
           </div>
         </div>

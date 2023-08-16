@@ -23,7 +23,7 @@
   <div class="mynav">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.html" style="cursor: pointer;"><img src="/std/Knorr-clone-main/logo.png" alt="Knorr Logo"
+        <a class="navbar-brand" href="index.html" style="cursor: pointer;"><img src="/Knor/Knorr-clone-main/logo.png" alt="Knorr Logo"
             width="85px" style="cursor: pointer;"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -32,7 +32,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/std/Knorr-clone-main/index1.php">Home</a>
+              <a class="nav-link" aria-current="page" href="/Knor/Knorr-clone-main/index1.php">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -40,24 +40,24 @@
                 Products
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/noodles.php">Noodles</a></li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/sauces.php">Sauces</a></li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/soups.php">Soups</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/noodles.php">Noodles</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/sauces.php">Sauces</a></li>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/soups.php">Soups</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
-                <li><a class="dropdown-item" href="/std/knorr-clone-main/products/products.php">All Products</a>
+                <li><a class="dropdown-item" href="/Knor/knorr-clone-main/products/products.php">All Products</a>
                 </li>
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="/std/knorr-clone-main/about.php">About Us</a>
+              <a class="nav-link" aria-current="page" href="/Knor/knorr-clone-main/about.php">About Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/std/knorr-clone-main/contactus.php">Contact Us</a>
+              <a class="nav-link active" aria-current="page" href="/Knor/knorr-clone-main/contactus.php">Contact Us</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" class="btn" aria-current="page" href="/std/login.php">Login</a>
+              <a class="nav-link" class="btn" aria-current="page" href="/Knor/login.php">Login</a>
             </li>
           </ul>
           <form class="d-flex" role="search">

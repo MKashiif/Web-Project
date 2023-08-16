@@ -18,7 +18,7 @@
     <div class="mynav">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#" style="cursor: pointer;"><img src="/std/Knorr-clone-main/logo.png" alt="Knorr Logo"
+                <a class="navbar-brand" href="#" style="cursor: pointer;"><img src="/Knor/Knorr-clone-main/logo.png" alt="Knorr Logo"
                         width="85px" style="cursor: pointer;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
